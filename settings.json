@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "svitsmp.aternos.me:46554",
+    "ip": "svitsmp.aternos.me",
     "port": 46554,
     "version": "",
     "try-creative": false
